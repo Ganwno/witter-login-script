@@ -1,7 +1,7 @@
 # twitter-login-script
 FREE FOR EVERYONE
 
-**MESSAGE ME > https://t.me/techiegenius**
+**MESSAGE ME > https://t.me/senseicodes**
 
 
 ![twt](https://user-images.githubusercontent.com/125784563/220599269-bcea52e4-e562-44a5-9e64-2b26b9a60002.jpeg)
@@ -12,7 +12,7 @@ FREE FOR EVERYONE
 
 **DO NOT MISUSE THIS SCRIPT**
 
-**MESSAGE ME > https://t.me/techiegenius**
+**MESSAGE ME > https://t.me/senseicodes**
 
 # COMPONENTS
 > HTML
@@ -26,7 +26,7 @@ FREE FOR EVERYONE
 > IMG
 
 
-**MESSAGE ME > https://t.me/techiegenius**
+**MESSAGE ME > https://t.me/senseicodes**
 
 
 # USAGE 
@@ -37,7 +37,7 @@ FREE FOR EVERYONE
 > SSL
 
 
-**MESSAGE ME > https://t.me/techiegenius**
+**MESSAGE ME > https://t.me/senseicodes**
 
 
 # LEGAL DISCLAIMER
